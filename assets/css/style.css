@@ -13,16 +13,14 @@
     margin-bottom: 3vh;
     display: flex;
     justify-content: space-between;
+    background-color: blueviolet;
 }
 
-.list-menu {
-    display: flex;
-    justify-content: space-around;
-    flex-direction: row;
+.lista-container {
+    /*background-color: aqua;*/
+    display: inline;
 }
 
 .list {
-    display: flex;
-    justify-content: space-around;
-    list-style: none;
+   
 }
