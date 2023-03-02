@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.header-container {
+    display: flex;
+    justify-content: center;
+}
+
+.img-logo {
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+}
+
+.cabecalho {
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 3vh;
+}
+
+.img-container {
+    display: flex;
+    justify-content: center;
+}
+
+.paragrafo {
+    background-color: blueviolet;
+    text-align: justify;
+    width: 40%;
+    font-size: 30px;
+    text-indent: 1.5em;
+}
+

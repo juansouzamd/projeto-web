@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.body-container {
+    width: 80vh;
+    margin: 0 auto;
+}
+
+.header-container {
+    margin-top: 3vh;
+    margin-bottom: 3vh;
+    display: flex;
+    justify-content: space-between;
+}
+
+.list-menu {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+.list {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
